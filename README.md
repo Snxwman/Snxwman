@@ -6,18 +6,24 @@
 ![Zsh](https://img.shields.io/badge/z%20shell-201f31?style=for-the-badge&logo=zsh&logoColor=white)
 ![Kitty](https://img.shields.io/badge/kitty-7F4622?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Neovim](https://img.shields.io/badge/neovim-019833.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Qemu](https://img.shields.io/badge/qemu%2Blibvirt-FF6600.svg?&style=for-the-badge&logo=qemu&logoColor=white)
 ![Brave](https://img.shields.io/badge/brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-C04C16?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/bash%20%26%20zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br/>
+
+<div align="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=snxwman&theme=codeSTACKr&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snxwman&theme=codeSTACKr&layout=compact&langs_count=8" />
+</div>
 
 ## Things that changed how I think
 
