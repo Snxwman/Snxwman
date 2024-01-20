@@ -21,8 +21,8 @@
 <br/>
 
 <div align="center">
-    <img height=200 width=474px align="center" src="https://github-readme-stats.vercel.app/api?username=snxwman&theme=codeSTACKr&show_icons=true&rank_icon=percentile" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snxwman&theme=codeSTACKr&layout=compact&langs_count=8" />
+    <img height=200 width=474px align="center" src="https://github-readme-stats-six-kappa-73.vercel.app/api?username=snxwman&theme=codeSTACKr&show_icons=true&rank_icon=percentile" />
+    <img height=200 align="center" src="https://github-readme-stats-six-kappa-73.vercel.app/api/top-langs/?username=snxwman&theme=codeSTACKr&layout=compact&langs_count=8&exclude_repo=github-readme-stats" />
 </div>
 
 ## Things that changed how I think
