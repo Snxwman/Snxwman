@@ -17,13 +17,11 @@
 ![Shell](https://img.shields.io/badge/bash%20%26%20zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<br/><br/>
+<br/>
 
 ## Things that changed how I think
 
 [SysV init must die](https://busybox.net/~vda/init_vs_runsv.html) - The blog post that convinced me to move to a runit based distribution.
-
-<br/><br/>
 
 ---
 
