@@ -25,6 +25,16 @@
     <img height=200 align="center" src="https://github-readme-stats-six-kappa-73.vercel.app/api/top-langs/?username=snxwman&theme=codeSTACKr&layout=compact&langs_count=8&exclude_repo=github-readme-stats" />
 </div>
 
+<!--
+<br />
+<div align="center">
+    <a href="https://www.codewars.com/users/Snxwman"><img src="https://www.codewars.com/users/Snxwman/badges/large" /></a>
+</div>
+<div align="center">
+    <a href="https://tryhackme.com/p/Snxwman"><img src="https://tryhackme-badges.s3.amazonaws.com/Snxwman.png" alt="TryHackMe"></a>
+</div>
+-->
+
 ## Things that changed how I think
 
 [SysV init must die](https://busybox.net/~vda/init_vs_runsv.html) - The blog post that convinced me to move to a runit based distribution.
@@ -35,18 +45,3 @@
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-6C4BFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:github@snxwman.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-kopp-63376810b)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/675729211960328203)
-
-<!--
-**snxwman/snxwman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
