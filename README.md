@@ -35,9 +35,11 @@
 </div>
 -->
 
+<!--
 ## Things that changed how I think
 
 [SysV init must die](https://busybox.net/~vda/init_vs_runsv.html) - The blog post that convinced me to move to a runit based distribution.
+-->
 
 ---
 
