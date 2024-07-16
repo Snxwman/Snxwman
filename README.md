@@ -7,8 +7,8 @@
 ### Tooling
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![Artix](https://img.shields.io/badge/artix-%2310A0CC.svg?&style=for-the-badge&logo=artix%20linux&logoColor=white)
+![Ghostty](https://img.shields.io/badge/ghostty-040378?style=for-the-badge&logo=ghostery&logoColor=white)
 ![Zsh](https://img.shields.io/badge/z%20shell-201f31?style=for-the-badge&logo=zsh&logoColor=white)
-![Kitty](https://img.shields.io/badge/kitty-7F4622?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Neovim](https://img.shields.io/badge/neovim-019833.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Qemu](https://img.shields.io/badge/qemu%2Blibvirt-FF6600.svg?&style=for-the-badge&logo=qemu&logoColor=white)
 ![Brave](https://img.shields.io/badge/brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
