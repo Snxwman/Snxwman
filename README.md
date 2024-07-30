@@ -29,6 +29,14 @@
     <img height=200 align="center" src="https://github-readme-stats-six-kappa-73.vercel.app/api/top-langs/?username=snxwman&theme=codeSTACKr&layout=compact&langs_count=8&exclude_repo=github-readme-stats" />
 </div>
 
+<br />
+
+<div align="center">
+
+![](https://leetcard.jacoblin.cool/Snxwman?theme=unicorn&font=Sora)
+
+</div>
+
 <!--
 <br />
 <div align="center">
