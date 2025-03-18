@@ -16,7 +16,7 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-C04C16?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-D34516?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/bash%20%26%20zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -37,25 +37,9 @@
 
 </div>
 
-<!--
-<br />
-<div align="center">
-    <a href="https://www.codewars.com/users/Snxwman"><img src="https://www.codewars.com/users/Snxwman/badges/large" /></a>
-</div>
-<div align="center">
-    <a href="https://tryhackme.com/p/Snxwman"><img src="https://tryhackme-badges.s3.amazonaws.com/Snxwman.png" alt="TryHackMe"></a>
-</div>
--->
-
-<!--
-## Things that changed how I think
-
-[SysV init must die](https://busybox.net/~vda/init_vs_runsv.html) - The blog post that convinced me to move to a runit based distribution.
--->
-
 ---
 
 #### Contact me
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-6C4BFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:github@snxwman.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-kopp-63376810b)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/675729211960328203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-kopp-63376810b)
