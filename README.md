@@ -39,7 +39,9 @@
 
 ---
 
+<!--
 #### Contact me
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-6C4BFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:github@snxwman.dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/675729211960328203)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-kopp-63376810b)
+-->
